@@ -72,7 +72,7 @@ const SocialLinks = () => {
         ))}
       </ul>
     </div>
-  );
+  )
 };
 
 export default SocialLinks;
