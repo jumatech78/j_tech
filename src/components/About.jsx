@@ -14,23 +14,22 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          I'm a web and mobile application developer with over 2 years
+          experience. I'm passionate about what i do and aspire to create
+          designs and experiences that help solve problems and communicate
+          functional sense. I'm looking forward on working and learning from
+          developing applications with a team of passionate developers. Some of
+          the technologies i work with at the moment include the following
+          React.js, React-Native, Next.js HTML, CSS, Tailwindcss, Firebase,
+          Django.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          I'm a graduate of ISBAT UNIVERSITY where i pursued a Bachelor's Degree
+          of Science in Applied Information Technology. I also managed to equip
+          myself with inter-personal communication skills plus team work.
         </p>
       </div>
     </div>
