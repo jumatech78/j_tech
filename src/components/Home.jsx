@@ -17,7 +17,7 @@ const Home = () => {
           <p className="text-gray-500 py-4 max-w-md">
             I have 2 years of experience building and designing software.
             Currently, I love to work on both mobile and web application using technologies like
-            React, React-Native, Tailwind, Next JS, Firebase and Django.
+            React, React-Native, Tailwind, Next JS, Firebase.
           </p>
 
           <div>

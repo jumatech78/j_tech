@@ -20,8 +20,8 @@ const About = () => {
           functional sense. I'm looking forward on working and learning from
           developing applications with a team of passionate developers. Some of
           the technologies i work with at the moment include the following
-          React.js, React-Native, Next.js HTML, CSS, Tailwindcss, Firebase,
-          Django.
+          React.js, React-Native, Next.js HTML, CSS, Tailwindcss, Firebase.
+
         </p>
 
         <br />
